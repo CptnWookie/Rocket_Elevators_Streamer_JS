@@ -10,7 +10,12 @@ class Streamer {
   getContent(name) {  
     this.name = name;
   }
+}
 
+module.exports = Streamer;
+
+// class Streamer {
+// 
   // constructor(desc, tmp, sun) {
   //   this.desc = desc;
   //   this.tmp = tmp;
@@ -65,6 +70,6 @@ class Streamer {
   //   };
   //  
   // }
-}
+// }
 
-module.exports = Streamer;
+// module.exports = Streamer;
