@@ -1,0 +1,17 @@
+{
+  "name": "Rocket_Elevators_Streamer_JS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CptnWookie/Rocket_Elevators_Streamer_JS.git",
+  "author": "alex <alexandreleblanc89@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
